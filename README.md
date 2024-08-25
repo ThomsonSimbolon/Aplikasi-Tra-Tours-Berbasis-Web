@@ -1,6 +1,6 @@
 #Aplikasi Tra-Tours Berbasis Web Responsive Mobile/Dekstop
 
-==> Tools:
+==> Dibuat menggunakan:
 -- HTML
 -- CSS
 -- Javascript
